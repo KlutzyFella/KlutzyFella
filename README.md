@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=KlutzyFella&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
+![](https://komarev.com/ghpvc/?username=KlutzyFella&base=1000)
 <!--
 **KlutzyFella/KlutzyFella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
