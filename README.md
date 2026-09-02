@@ -291,9 +291,139 @@ Verified certifications were not included in the source material. Provider badge
 </div>
 
 ---
+<div align="center">
+![Ronnit Chopra](https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=230&section=header&text=Ronnit%20Chopra&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%2FML&descAlignY=58&descSize=19)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+reliable+distributed+systems;Engineering+grounded+AI+applications;Turning+complex+workflows+into+scalable+software)
+![Michigan State University](https://img.shields.io/badge/Michigan%20State%20University-Computer%20Science-18453B?style=flat-square&logo=academia&logoColor=white)
+![Class of 2026](https://img.shields.io/badge/Class%20of-2026-6D28D9?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-3.8%2F4.0-7C3AED?style=flat-square)
+![Dean's List](https://img.shields.io/badge/Dean's%20List-All%20Semesters-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/East%20Lansing-Michigan-4338CA?style=flat-square&logo=googlemaps&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Engineering%20Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=KlutzyFella&label=Profile%20Views&color=6D28D9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/KlutzyFella?label=Followers&style=flat-square&color=7C3AED)
+![Stars](https://img.shields.io/github/stars/KlutzyFella/tadk-simulator?label=Project%20Stars&style=flat-square&color=8B5CF6)
+</div>
+---
+About Me
+I am a software engineer and Computer Science graduate from Michigan State University who enjoys building systems that remain reliable under scale, concurrency, and failure. My work spans distributed backends, AI/ML infrastructure, cloud engineering, and full-stack product development.
+I approach engineering as a product discipline: start with the user or operational constraint, design explicit service boundaries, make failure modes observable, and measure whether the system actually improves the workflow. Recent work includes a serverless lifecycle simulator validated on 100,000+ production-trace events, a citation-grounded RAG platform, a fault-tolerant distributed task engine, and an underwriting workflow projected to save 200+ labor hours annually.
+Open To
+Backend, platform, distributed-systems, and AI engineering roles
+Open-source collaboration involving infrastructure, developer tooling, or applied AI
+Teams that value measurable impact, strong system design, and production ownership
+---
+Tech Stack
+Languages
+<div align="center">
+![Languages](https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,cs&theme=dark)
+</div>
+Frontend
+<div align="center">
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark)
+</div>
+Backend & Databases
+<div align="center">
+![Backend and Databases](https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,supabase&theme=dark)
+</div>
+`gRPC` `Protobuf` `Kafka` `pgvector` `Quarkus` `FastAPI` `LangChain`
+Cloud, DevOps & Tooling
+<div align="center">
+![Cloud and DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,git,github,linux&theme=dark)
+</div>
+`Amazon EC2` `Amazon S3` `IAM` `K3s` `Prometheus` `Grafana` `Fly.io` `Unix`
+---
+<!--
+## AI / ML Expertise
 
-## Current Focus
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Retrieval-Augmented Generation | Advanced applied | Designed a polyglot RAG system with asynchronous ingestion, vector retrieval, structured generation, and source-level citation validation |
+| Embeddings & Vector Search | Strong working | Built MiniLM-L6-v2 embedding pipelines and HNSW cosine-similarity retrieval with PostgreSQL and pgvector |
+| LLM Reliability | Strong working | Cross-validates model-generated citation IDs against retrieved chunks and removes unsupported references before response delivery |
+| ML Infrastructure | Strong working | Integrated Go gateways, Python ML microservices, Kafka pipelines, gRPC contracts, and containerized data services |
+| Simulation & Experimentation | Advanced applied | Replayed 100,000+ serverless production-trace events using deterministic discrete-event simulation and regression-tested baselines |
 
+---
+<!--
+## Certifications
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Credential%20details%20needed-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Credential%20details%20needed-5B21B6?style=for-the-badge&logo=oracle&logoColor=white)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Credential%20details%20needed-6D28D9?style=for-the-badge)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Credential%20details%20needed-4338CA?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+<!--
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/KlutzyFella/"><img src="https://img.shields.io/badge/LeetCode-KlutzyFella-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.geeksforgeeks.org/profile/klutzyfella"><img src="https://img.shields.io/badge/GeeksforGeeks-klutzyfella-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.hackerrank.com/KlutzyFella"><img src="https://img.shields.io/badge/HackerRank-KlutzyFella-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.codechef.com/users/klutzyfella"><img src="https://img.shields.io/badge/CodeChef-klutzyfella-4338CA?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
+</div>
+
+---
+<!--
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KlutzyFella&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github" alt="Ronnit's GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=KlutzyFella&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ronnit's GitHub streak" />
+<img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlutzyFella&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Ronnit's top languages" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KlutzyFella&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+[![Ronnit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlutzyFella&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=5B21B6&hide_border=true)](https://github.com/KlutzyFella)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/KlutzyFella/KlutzyFella/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+Current Focus
 ```yaml
 learning:
   - Production-grade distributed systems
@@ -308,30 +438,19 @@ open_to:
   - Backend, platform, and AI engineering opportunities
   - Open-source collaboration
 ```
-
 ---
-
-## Connect
-
+Connect
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-choprar3%40msu.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choprar3@msu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronnit%20Chopra-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnit-chopra)
-[![GitHub](https://img.shields.io/badge/GitHub-KlutzyFella-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KlutzyFella)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Selected%20Repositories-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/KlutzyFella?tab=repositories)
-
+![Gmail](https://img.shields.io/badge/Gmail-choprar3%40msu.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronnit%20Chopra-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-KlutzyFella-181717?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-Selected%20Repositories-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
-
 ---
-
 <div align="center">
-
-**Build systems that stay correct under load, failure, and change.**
-
+Build systems that stay correct under load, failure, and change.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer)
-
 </div>
-
 
 <!--
 **KlutzyFella/KlutzyFella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
